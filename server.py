@@ -5,7 +5,7 @@ HOST = 'localhost'
 PORT = 5000
 
 match = {
-    "word": "coisar",
+    "word": "sistemas",
     "player1_id": None,
     "player2_id": None,
     "status": "waiting",
